@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Justin C. Apolonio
 ==========================================================================================================================================
 
-2D Illustrator | 3D Generalist | Game Developer
+2D Artist || Game Developer
 -----------------------------------------------
 
 Hey there! I’m Justin (also known as GulamanDev) — a game dev, artist, and storyteller who loves building fun, meaningful, and visually striking experiences.
